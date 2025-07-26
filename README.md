@@ -50,7 +50,7 @@ Aplikasi Point of Sale (POS) ini dirancang untuk menyederhanakan dan mengoptimal
    Generate JWT key
    ```bash
    php artisan jwt:key
-   ```**Migrasi & Seeder Database**  
+   ```
    Jalankan migrasi database dan seeder
    ```bash
    php artisan migrate --seed
