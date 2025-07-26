@@ -69,7 +69,7 @@ Aplikasi Point of Sale (POS) ini dirancang untuk menyederhanakan dan mengoptimal
    npm install
    ```
 3. **Ubah URL API sesuai dengan url API kamu**  
-   Buka file `axios.ts` dan ubah `baseURL` sesuai dengan url API kamu
+   Buka file `axios.js` dan ubah `baseURL` sesuai dengan url API kamu
    ```bash
    const request = axios.create({
     baseURL: 'http://localhost:8000/api',
