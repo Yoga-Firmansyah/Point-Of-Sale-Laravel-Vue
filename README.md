@@ -15,7 +15,7 @@ Aplikasi Point of Sale (POS) ini dirancang untuk menyederhanakan dan mengoptimal
 ---
 
 ## Instalasi dan Konfigurasi
-    **Clone Repository**
+- **Clone Repository**
     ```bash
     git clone https://github.com/Yoga-Firmansyah/Point-Of-Sale-Laravel-Vue.git
     cd Point-Of-Sale-Laravel-Vue
